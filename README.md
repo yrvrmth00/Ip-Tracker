@@ -1,21 +1,18 @@
-<h2 align="left">Hello Everyone 👋! My name is Kriszz</h2>
+<h1 align="left">Hello Everyone 👋! My name is Kriszz</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrKriszz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrKriszz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif"  />
+<h2 align="center">This is a python script to track IP or domain.</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="python logo"  />
 </div>
+
+###
+
+<h5 align="left">I'am still learning :)</h5>
 
 ###
 
@@ -30,9 +27,19 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="112" src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif"  />
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31ti46guz22ff4np6gugmzag5pse">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ti46guz22ff4np6gugmzag5pse&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/MrKriszz/count.svg?"  />
