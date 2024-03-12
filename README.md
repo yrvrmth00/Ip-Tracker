@@ -17,22 +17,10 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31ti46guz22ff4np6gugmzag5pse">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ti46guz22ff4np6gugmzag5pse&count=1" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/MrKriszz/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/MrKriszz/MrKriszz/output/snake.svg" alt="Snake animation" />
 
 ###
